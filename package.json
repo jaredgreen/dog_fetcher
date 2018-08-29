@@ -1,7 +1,8 @@
 {
   "dependencies": {
     "axios": "^0.18.0",
-    "jest": "^23.5.0"
+    "jest": "^23.5.0",
+    "nock": "^9.6.1"
   },
   "scripts": {
     "test": "jest __tests__"
