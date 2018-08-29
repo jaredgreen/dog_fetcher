@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "axios": "^0.18.0",
+    "jest": "^23.5.0"
+  },
+  "scripts": {
+    "test": "jest __tests__"
+  }
+}
